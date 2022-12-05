@@ -1,0 +1,144 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Coordinates">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Has_GID-300004"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusStop"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Has_GID-300004"/>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#PointOfInterest"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Topic">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Has_GID-300004"/>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#PointOfInterest"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn_GID-300003"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Shape">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Crosses_GID-108739"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Everything"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#SpatialPartOf_GID-300002"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusTrips">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Follows_GID-82751"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Shape"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Follows_GID-82751"/>
+        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusTrips"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#PointOfInterest">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn_GID-300003"/>
+        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusStop">
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BelongsTo_GID-300000"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusStop"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Has_GID-300004"/>
+        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Coordinates"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#PointOfInterest"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsClose_GID-300001"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn_GID-300003"/>
+        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Pathway_GID-21445"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusStop"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusStop"/>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Transfers_GID-103105"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+  </owl:Class>
+</rdf:RDF>
