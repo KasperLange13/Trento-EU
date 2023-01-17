@@ -1,0 +1,262 @@
+<http://localhost:8080/source/City-0> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-0> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "CEMBRA" .
+<http://localhost:8080/source/City-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-0> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38034" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-1> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-2> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38063" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-2> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-2> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "CIVEZZANO" .
+
+<http://localhost:8080/source/City-3> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "GIOVO" .
+<http://localhost:8080/source/City-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-3> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-3> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38030" .
+<http://localhost:8080/source/City-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-4> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-4> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "BEDOLLO" .
+<http://localhost:8080/source/City-4> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38043" .
+<http://localhost:8080/source/City-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-5> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38047" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-5> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "SEGONZANO" .
+<http://localhost:8080/source/City-5> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-18> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-18> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "LAVIS" .
+<http://localhost:8080/source/City-18> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38015" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-20> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38057" .
+<http://localhost:8080/source/City-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-20> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "PergineValsugana" .
+<http://localhost:8080/source/City-20> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-21> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "BorgoValsugana" .
+<http://localhost:8080/source/City-21> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-21> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38051" .
+<http://localhost:8080/source/City-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-22> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38050" .
+<http://localhost:8080/source/City-22> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-22> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "Bieno" .
+
+<http://localhost:8080/source/City-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-26> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "LevicoTerme" .
+<http://localhost:8080/source/City-26> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-26> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38056" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-29> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-29> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38123" .
+<http://localhost:8080/source/City-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-29> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "Trento" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-30> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "Trento" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-30> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38121" .
+<http://localhost:8080/source/City-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-30> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-32> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-32> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38122" .
+<http://localhost:8080/source/City-32> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "Trento" .
+<http://localhost:8080/source/City-32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-43> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-43> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38060" .
+<http://localhost:8080/source/City-43> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "Aldeno" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-47> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-47> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38070" .
+<http://localhost:8080/source/City-47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-47> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "PergolesediLasino" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-53> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "Lasino" .
+<http://localhost:8080/source/City-53> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-53> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38076" .
+<http://localhost:8080/source/City-53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-76> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "Mezzocorona" .
+<http://localhost:8080/source/City-76> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-76> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38016" .
+<http://localhost:8080/source/City-76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-94> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-94> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "SOVER" .
+<http://localhost:8080/source/City-94> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38048" .
+<http://localhost:8080/source/City-94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-109> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-109> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "BASELGADIPINE'" .
+<http://localhost:8080/source/City-109> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38042" .
+<http://localhost:8080/source/City-109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-122> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38045" .
+<http://localhost:8080/source/City-122> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-122> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "CIVEZZANO" .
+
+<http://localhost:8080/source/City-132> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "FORNACE" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-132> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38040" .
+<http://localhost:8080/source/City-132> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-140> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-140> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38041" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-140> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "ALBIANO(TN)" .
+<http://localhost:8080/source/City-140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-177> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-177> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38053" .
+<http://localhost:8080/source/City-177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-177> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "CastelloTesino" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-183> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "VigodiFassa" .
+<http://localhost:8080/source/City-183> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-183> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38039 " .
+
+<http://localhost:8080/source/City-185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-185> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38052" .
+<http://localhost:8080/source/City-185> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-185> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "Caldonazzo" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-188> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-188> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38038" .
+<http://localhost:8080/source/City-188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-188> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "Tesero" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-189> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "Carano" .
+<http://localhost:8080/source/City-189> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-189> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38033" .
+
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-192> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-192> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38037" .
+<http://localhost:8080/source/City-192> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "Predazzo(TN)" .
+<http://localhost:8080/source/City-192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-223> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-223> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "obereggen" .
+<http://localhost:8080/source/City-223> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "39050" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-227> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38054" .
+<http://localhost:8080/source/City-227> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-227> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "SanMartinodiCastrozza" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/City-227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-233> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-233> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "32020" .
+<http://localhost:8080/source/City-233> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "Falcade" .
+<http://localhost:8080/source/City-233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/City-255> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#IsLocatedIn> <http://localhost:8080/source/Region-0> .
+<http://localhost:8080/source/City-255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#City> .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#Region> .
+<http://localhost:8080/source/City-255> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#postal_code> "38035" .
+<http://localhost:8080/source/City-255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/City-255> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#name> "Moena(TN)" .
+<http://localhost:8080/source/Region-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+

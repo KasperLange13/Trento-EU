@@ -1,0 +1,750 @@
+<http://localhost:8080/source/Route-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-1> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-1> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B101" .
+<http://localhost:8080/source/Route-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-1> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Cavalese-Predazzo-Moena-Canazei-Penia" .
+
+<http://localhost:8080/source/Route-3> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B102" .
+<http://localhost:8080/source/Route-3> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento -  Cembra - Capriana - Cavalese" .
+<http://localhost:8080/source/Route-3> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-7> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B114" .
+<http://localhost:8080/source/Route-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-7> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-7> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Casatta di Valfloriana - Palu' - Sicina" .
+
+<http://localhost:8080/source/Route-55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-55> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B104" .
+<http://localhost:8080/source/Route-55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-55> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-S.Michele a/A-Salorno-Egna-Ora-Cavalese" .
+<http://localhost:8080/source/Route-55> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-60> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B105" .
+<http://localhost:8080/source/Route-60> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Verla - Valternigo - Palu' di Giovo" .
+<http://localhost:8080/source/Route-60> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-63> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B121" .
+<http://localhost:8080/source/Route-63> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Montesover - Sover" .
+<http://localhost:8080/source/Route-63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-63> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-65> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B109" .
+<http://localhost:8080/source/Route-65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-65> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Cavalese - Masi di Cavalese" .
+<http://localhost:8080/source/Route-65> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-67> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Cavalese - Carano - Villaggio Veronza" .
+<http://localhost:8080/source/Route-67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-67> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B111" .
+<http://localhost:8080/source/Route-67> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-69> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-69> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B402" .
+<http://localhost:8080/source/Route-69> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento - Nogarè - Baselga di Pinè -Montesover" .
+
+<http://localhost:8080/source/Route-71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-71> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-71> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B201" .
+<http://localhost:8080/source/Route-71> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Vezzano-Sarche-Tione" .
+
+<http://localhost:8080/source/Route-73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-73> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-73> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Tione-Bolbeno-Ragoli-Montagne" .
+<http://localhost:8080/source/Route-73> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B216" .
+
+<http://localhost:8080/source/Route-76> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-76> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Sardagna-Candriai-Vaneze-Vason-Viote" .
+<http://localhost:8080/source/Route-76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-76> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B202" .
+<http://localhost:8080/source/Route-76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-78> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-78> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B203" .
+<http://localhost:8080/source/Route-78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-78> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Vezzano-Ciago-Ranzo-Margone" .
+<http://localhost:8080/source/Route-78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-80> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-80> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B206" .
+<http://localhost:8080/source/Route-80> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Cadine-Sopramonte-Terlago-MTerlago" .
+
+<http://localhost:8080/source/Route-84> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B429" .
+<http://localhost:8080/source/Route-84> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-84> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Centrale - Regnana" .
+<http://localhost:8080/source/Route-84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-86> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-86> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B408" .
+<http://localhost:8080/source/Route-86> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Borgo Valsugana - Olle" .
+
+<http://localhost:8080/source/Route-90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-90> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Levico Terme - Barco - S.Giuliana - Lochere" .
+<http://localhost:8080/source/Route-90> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B415" .
+<http://localhost:8080/source/Route-90> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-92> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Baselga di Pinè - S.Mauro" .
+<http://localhost:8080/source/Route-92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-92> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-92> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B431" .
+
+<http://localhost:8080/source/Route-94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-94> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-94> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B413" .
+<http://localhost:8080/source/Route-94> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Brusago-Valcava" .
+
+<http://localhost:8080/source/Route-96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-96> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-96> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B428" .
+<http://localhost:8080/source/Route-96> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Bedollo-Svaldi" .
+
+<http://localhost:8080/source/Route-98> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B410" .
+<http://localhost:8080/source/Route-98> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-98> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Borgo Valsugana - Tezze - Primolano" .
+<http://localhost:8080/source/Route-98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-102> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "S.Martino di Castrozza-Fiera di Primiero-Feltre" .
+<http://localhost:8080/source/Route-102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-102> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-102> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B501" .
+
+<http://localhost:8080/source/Route-106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-106> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-106> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B504" .
+<http://localhost:8080/source/Route-106> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Canal S.Bovo - Ronco Fosse - Ronco Chiesa" .
+
+<http://localhost:8080/source/Route-108> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Borgo Valsugana-Arten-Feltre" .
+<http://localhost:8080/source/Route-108> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B512" .
+<http://localhost:8080/source/Route-108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-108> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-110> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Besenello-Calliano-Rovereto" .
+<http://localhost:8080/source/Route-110> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B301" .
+<http://localhost:8080/source/Route-110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-110> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-116> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B506" .
+<http://localhost:8080/source/Route-116> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Fiera di Primiero-Imer-Canal S.Bovo-Caoria" .
+<http://localhost:8080/source/Route-116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-116> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-117> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B112" .
+<http://localhost:8080/source/Route-117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-117> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Cavalese - Daiano - Varena" .
+<http://localhost:8080/source/Route-117> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-120> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento - Civezzano - Sover - Cavalese" .
+<http://localhost:8080/source/Route-120> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B103" .
+<http://localhost:8080/source/Route-120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-120> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-123> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B514" .
+<http://localhost:8080/source/Route-123> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-123> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Borgo V.-Arten-Fiera di P.-S. Martino C." .
+<http://localhost:8080/source/Route-123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-130> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-130> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Predazzo-P.sso Rolle-Fiera di P." .
+<http://localhost:8080/source/Route-130> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B122" .
+
+<http://localhost:8080/source/Route-132> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B409" .
+<http://localhost:8080/source/Route-132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-132> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Borgo Valsugana -Roncegno Terme -Ronchi" .
+<http://localhost:8080/source/Route-132> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-134> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-134> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Vezzano-Sarche-Dro-Arco-Riva" .
+<http://localhost:8080/source/Route-134> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B205" .
+<http://localhost:8080/source/Route-134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-136> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B113" .
+<http://localhost:8080/source/Route-136> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Cavalese - Daiano - Carano - Tesero - Cavalese" .
+<http://localhost:8080/source/Route-136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-136> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-138> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B404" .
+<http://localhost:8080/source/Route-138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-138> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Baselga di Pinè - Faida  - Montagnaga" .
+<http://localhost:8080/source/Route-138> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-151> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B116" .
+<http://localhost:8080/source/Route-151> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-151> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento - Civezzano - S.Agnese - Bosco" .
+
+<http://localhost:8080/source/Route-153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-153> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-153> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B211" .
+<http://localhost:8080/source/Route-153> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Riva del Garda-Tenno-Fiave'-Ponte Arche" .
+
+<http://localhost:8080/source/Route-155> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Ponte Arche-S.Croce-Cavrasto-Bivedo" .
+<http://localhost:8080/source/Route-155> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B210" .
+<http://localhost:8080/source/Route-155> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-157> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-157> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Tione-Pieve di Bono-Storo-Baitoni-Ponte Caffaro" .
+<http://localhost:8080/source/Route-157> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B215" .
+<http://localhost:8080/source/Route-157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-159> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Ponte Arche-Lundo" .
+<http://localhost:8080/source/Route-159> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-159> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B209" .
+
+<http://localhost:8080/source/Route-161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-161> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B208" .
+<http://localhost:8080/source/Route-161> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Ponte Arche-S.Lorenzo in B.-Molveno" .
+<http://localhost:8080/source/Route-161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-161> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-164> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Pieve di Bono-Castel Condino-Por" .
+<http://localhost:8080/source/Route-164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-164> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B213" .
+<http://localhost:8080/source/Route-164> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-167> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-167> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B212" .
+<http://localhost:8080/source/Route-167> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Pieve di Bono-Praso-Daone" .
+
+<http://localhost:8080/source/Route-169> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-169> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Borgo Valsugana -Carzano -Strigno -Samone" .
+<http://localhost:8080/source/Route-169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-169> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B406" .
+
+<http://localhost:8080/source/Route-171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-171> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-171> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B214" .
+<http://localhost:8080/source/Route-171> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Riva-Pregasina-Bezzecca-Storo-Pieve di Bono" .
+
+<http://localhost:8080/source/Route-175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-175> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B204" .
+<http://localhost:8080/source/Route-175> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-175> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Vezzano Apt-Vigo Cavedine-Riva del Garda" .
+
+<http://localhost:8080/source/Route-177> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B418" .
+<http://localhost:8080/source/Route-177> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-177> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Pergine-Kamauz-Frassilongo-S.Felice F.-Hacleri" .
+<http://localhost:8080/source/Route-177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-179> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B417" .
+<http://localhost:8080/source/Route-179> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-179> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Pergine -Canezza -Viarago -S.Orsola -Palù" .
+
+<http://localhost:8080/source/Route-181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-181> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-181> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B302" .
+<http://localhost:8080/source/Route-181> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento -Ravina -Mattarello -Aldeno -Garniga Terme" .
+
+<http://localhost:8080/source/Route-184> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Borgo Valsugana - Telve - Torcegno" .
+<http://localhost:8080/source/Route-184> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-184> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B407" .
+
+<http://localhost:8080/source/Route-186> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B303" .
+<http://localhost:8080/source/Route-186> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-V.Vattaro-Centa-Carbonare-Lavarone-Luserna" .
+<http://localhost:8080/source/Route-186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-186> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-188> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B423" .
+<http://localhost:8080/source/Route-188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-188> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-188> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Pergine Vals.-Ischia-Tenna-Levico Terme" .
+
+<http://localhost:8080/source/Route-194> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Rovereto-Villa-Nomi-Aldeno" .
+<http://localhost:8080/source/Route-194> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B311" .
+<http://localhost:8080/source/Route-194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-194> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-196> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B306" .
+<http://localhost:8080/source/Route-196> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Rovereto-Calliano-Folgaria-Lavarone" .
+<http://localhost:8080/source/Route-196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-196> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-198> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Rovereto-Terragnolo-Serrada-Folgaria" .
+<http://localhost:8080/source/Route-198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-198> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-198> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B315" .
+
+<http://localhost:8080/source/Route-200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-200> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Rovereto-Mori-Chizzola-Cornè-Ala-Avio" .
+<http://localhost:8080/source/Route-200> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-200> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B307" .
+
+<http://localhost:8080/source/Route-203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-203> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Rovereto-Riva-Obra di Vallarsa-Ometto" .
+<http://localhost:8080/source/Route-203> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-203> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B314" .
+
+<http://localhost:8080/source/Route-215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-215> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B312" .
+<http://localhost:8080/source/Route-215> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-215> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Rovereto-Pozzacchio-Raossi-P.Vallarsa-P.Fugazze" .
+
+<http://localhost:8080/source/Route-220> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-220> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Rovereto-Mori-S.Felice-Ronzo Chienis" .
+<http://localhost:8080/source/Route-220> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B310" .
+
+<http://localhost:8080/source/Route-227> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Caoria-Canal S.Bovo-Feltre" .
+<http://localhost:8080/source/Route-227> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-227> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B507" .
+<http://localhost:8080/source/Route-227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-229> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-229> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B230" .
+<http://localhost:8080/source/Route-229> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Ciago-Monte Terlago-Ranzo-Margone" .
+<http://localhost:8080/source/Route-229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-231> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B305" .
+<http://localhost:8080/source/Route-231> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Rovereto-Mori-Brentonico-Saccone" .
+<http://localhost:8080/source/Route-231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-231> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-233> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Besagno-Crosano-Cornè-Saccone" .
+<http://localhost:8080/source/Route-233> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B319" .
+<http://localhost:8080/source/Route-233> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-235> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Valle S.Felice-Manzano-Nomesino" .
+<http://localhost:8080/source/Route-235> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B318" .
+<http://localhost:8080/source/Route-235> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-300> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B115" .
+<http://localhost:8080/source/Route-300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-300> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Pergine - Civezzano" .
+<http://localhost:8080/source/Route-300> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-309> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Pergine Vals.-Masetti-Assizzi-Vignola-Falesina" .
+<http://localhost:8080/source/Route-309> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-309> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B425" .
+
+<http://localhost:8080/source/Route-311> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B511" .
+<http://localhost:8080/source/Route-311> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-311> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Siror - Fiera di Primiero - Imer - Masi Imer" .
+<http://localhost:8080/source/Route-311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-316> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Moena-Passo  S.Pellegrino-Falcade" .
+<http://localhost:8080/source/Route-316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-316> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-316> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B123" .
+
+<http://localhost:8080/source/Route-322> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B218" .
+<http://localhost:8080/source/Route-322> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Vigo Cavedine - Masi di Vigo Cavedine" .
+<http://localhost:8080/source/Route-322> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-324> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B640" .
+<http://localhost:8080/source/Route-324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-324> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Malè - Rabbi Bagni - Somrabbi" .
+<http://localhost:8080/source/Route-324> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-326> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Malè - Folgarida - Madonna di Campiglio" .
+<http://localhost:8080/source/Route-326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-326> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-326> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B642" .
+<http://localhost:8080/source/Route-326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-328> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-328> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Pellizzano - Menas" .
+<http://localhost:8080/source/Route-328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-328> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B644" .
+<http://localhost:8080/source/Route-328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-330> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Malè - Bolentina" .
+<http://localhost:8080/source/Route-330> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-330> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B641" .
+<http://localhost:8080/source/Route-330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-332> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Malè-Mezzana-Fucine-Vermiglio-Passo Tonale" .
+<http://localhost:8080/source/Route-332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-332> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-332> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B646" .
+<http://localhost:8080/source/Route-332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-334> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B643" .
+<http://localhost:8080/source/Route-334> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Malè - Mezzana - Marilleva 1400" .
+<http://localhost:8080/source/Route-334> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-336> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-336> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Malè-Mezzana-Fucine-Cogolo-Peio" .
+<http://localhost:8080/source/Route-336> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B645" .
+<http://localhost:8080/source/Route-336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-340> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B107" .
+<http://localhost:8080/source/Route-340> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-340> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Mezzolombardo - Roverè della Luna" .
+
+<http://localhost:8080/source/Route-343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-343> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Mezzocorona Ferrovia - S.Michele - Faedo Pineta" .
+<http://localhost:8080/source/Route-343> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-343> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B106" .
+
+<http://localhost:8080/source/Route-345> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B611" .
+<http://localhost:8080/source/Route-345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-345> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Mezzocorona-Fai d/Paganella-Andalo-Molveno" .
+<http://localhost:8080/source/Route-345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-345> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-352> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "2" .
+<http://localhost:8080/source/Route-352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-352> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "R35" .
+<http://localhost:8080/source/Route-352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-352> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> " FERROVIA TRENTO - MALE' - MEZZANA" .
+
+<http://localhost:8080/source/Route-354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-354> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-354> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Cles - Mechel" .
+<http://localhost:8080/source/Route-354> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B624" .
+<http://localhost:8080/source/Route-354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-357> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B634" .
+<http://localhost:8080/source/Route-357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-357> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Cles - Livo - Bresimo - Lanza di Rumo" .
+<http://localhost:8080/source/Route-357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-357> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-364> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-364> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B632" .
+<http://localhost:8080/source/Route-364> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Cles - Revò - Castelfondo - Fondo" .
+
+<http://localhost:8080/source/Route-366> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B620" .
+<http://localhost:8080/source/Route-366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-366> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-366> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Mezzolombardo-Campodenno-Denno-Cles" .
+<http://localhost:8080/source/Route-366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-368> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-368> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Cles - Dermulo - Coredo - Smarano - Sfruz" .
+<http://localhost:8080/source/Route-368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-368> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B627" .
+
+<http://localhost:8080/source/Route-371> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-371> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B631" .
+<http://localhost:8080/source/Route-371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-371> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Fondo - Tret" .
+
+<http://localhost:8080/source/Route-375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-375> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Cles -Dermulo -Dambel -Don -Fondo -P.Mendola" .
+<http://localhost:8080/source/Route-375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-375> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-375> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B630" .
+
+<http://localhost:8080/source/Route-378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-378> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-378> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Cles - Mostizzolo - Cis" .
+<http://localhost:8080/source/Route-378> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B633" .
+
+<http://localhost:8080/source/Route-395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-395> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Mezzolombardo - Vigo di Ton -  Toss" .
+<http://localhost:8080/source/Route-395> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B615" .
+<http://localhost:8080/source/Route-395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-395> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-397> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B623" .
+<http://localhost:8080/source/Route-397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-397> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Cles - Pavillo - Tuenno - Nanno - Portolo" .
+<http://localhost:8080/source/Route-397> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-401> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Mollaro - Priò - Vervò - Tres" .
+<http://localhost:8080/source/Route-401> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B625" .
+<http://localhost:8080/source/Route-401> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-417> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B863" .
+<http://localhost:8080/source/Route-417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-417> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-417> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Linea 3 integrata:Nago-Torbole-Riva-Arco-Bolognano" .
+
+<http://localhost:8080/source/Route-420> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Linea 1: Riva -Varone -Arco -S.Giorgio-Brione-Riva" .
+<http://localhost:8080/source/Route-420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-420> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B861" .
+<http://localhost:8080/source/Route-420> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-423> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Linea 2: Riva-Brione-S.Giorgio-Arco-Varone-Riva" .
+<http://localhost:8080/source/Route-423> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-423> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B862" .
+
+<http://localhost:8080/source/Route-494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-494> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-494> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento - Pergine - Baselga di Pinè - Montesover" .
+<http://localhost:8080/source/Route-494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-494> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B403" .
+
+<http://localhost:8080/source/Route-503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-503> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-503> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Rovereto-Ala-Masi d'Avio-Avio-Rovereto" .
+<http://localhost:8080/source/Route-503> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B335" .
+
+<http://localhost:8080/source/Route-507> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Rovereto-Ala-Sabbionara-Avio-Masi-Rovereto" .
+<http://localhost:8080/source/Route-507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-507> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-507> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B334" .
+<http://localhost:8080/source/Route-507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-520> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B401" .
+<http://localhost:8080/source/Route-520> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-520> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Pergine V.-Levico T.-Borgo V." .
+
+<http://localhost:8080/source/Route-522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-522> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-522> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Borgo V.- Strigno - Castello Tesino" .
+<http://localhost:8080/source/Route-522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-522> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B405" .
+
+<http://localhost:8080/source/Route-549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-549> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B461" .
+<http://localhost:8080/source/Route-549> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Linea 1 Pergine Valsugana - Madrano - Nogarè" .
+<http://localhost:8080/source/Route-549> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-551> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Linea 2 Pergine-Zivignago-Canezza-Viarago-Serso" .
+<http://localhost:8080/source/Route-551> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B462" .
+<http://localhost:8080/source/Route-551> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-552> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B466" .
+<http://localhost:8080/source/Route-552> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-552> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Linea 6 Pergine Valsugana-Costasavina-Roncogno" .
+
+<http://localhost:8080/source/Route-554> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B464" .
+<http://localhost:8080/source/Route-554> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Linea 4 Pergine Valsugana - Ischia" .
+<http://localhost:8080/source/Route-554> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-556> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B463" .
+<http://localhost:8080/source/Route-556> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-556> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Linea 3 Pergine Valsugana-Masetti-Assizzi-Zava" .
+
+<http://localhost:8080/source/Route-562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-562> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B465" .
+<http://localhost:8080/source/Route-562> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Linea 5 Pergine V-Susà-S.Vito-Canale-S.Caterina" .
+<http://localhost:8080/source/Route-562> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-565> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-565> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B236" .
+<http://localhost:8080/source/Route-565> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Sopramonte-Baselga-Vigolo B.-Terlago-M.Terlago" .
+
+<http://localhost:8080/source/Route-578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-578> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Servizi Trenitalia - Brennero Andata" .
+<http://localhost:8080/source/Route-578> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "R15" .
+<http://localhost:8080/source/Route-578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-578> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "2" .
+
+<http://localhost:8080/source/Route-580> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B336" .
+<http://localhost:8080/source/Route-580> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-580> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Ala-Ronchi di Ala-Ponzolotti" .
+
+<http://localhost:8080/source/Route-604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-604> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B120" .
+<http://localhost:8080/source/Route-604> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-604> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Cavalese Autostazione - Ospedale" .
+<http://localhost:8080/source/Route-604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-618> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B503" .
+<http://localhost:8080/source/Route-618> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-618> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Caoria-Imer-Fiera di Primiero-Voltago-Agordo" .
+<http://localhost:8080/source/Route-618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-634> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Rovereto-Mori-Riva-Arco-Bolognano" .
+<http://localhost:8080/source/Route-634> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-634> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B332" .
+<http://localhost:8080/source/Route-634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-636> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B231" .
+<http://localhost:8080/source/Route-636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-636> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-636> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Tione-Pinzolo-Madonna di C.-C.C.Magno" .
+
+<http://localhost:8080/source/Route-638> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-638> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "AAM: Ora-S.Lugano-Castello di Fiemme-Cavalese" .
+<http://localhost:8080/source/Route-638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-638> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B140" .
+
+<http://localhost:8080/source/Route-640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-640> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-640> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B468" .
+<http://localhost:8080/source/Route-640> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Linea 8: Pergine I.-Ospedale Villa Rosa-Zivignago" .
+
+<http://localhost:8080/source/Route-647> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-647> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Siror - Fiera  P. - Imer - Canal S.B." .
+<http://localhost:8080/source/Route-647> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B511" .
+<http://localhost:8080/source/Route-647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-665> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Riva del Garda-Deva-Pranzo-Campi" .
+<http://localhost:8080/source/Route-665> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B221" .
+<http://localhost:8080/source/Route-665> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+
+<http://localhost:8080/source/Route-672> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-672> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B869" .
+<http://localhost:8080/source/Route-672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-672> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> " Riva del Garda-Deva-Pranzo-Campi" .
+
+<http://localhost:8080/source/Route-681> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "SU.Ville Anaunia:Portolo-Nanno-Rallo-Pavillo-Cles" .
+<http://localhost:8080/source/Route-681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-681> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B665" .
+<http://localhost:8080/source/Route-681> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-687> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "SU Vallelaghi: Terlago-M.Terlago-Ciago-Lon-Vezzano" .
+<http://localhost:8080/source/Route-687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-687> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B261" .
+<http://localhost:8080/source/Route-687> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-691> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "R25" .
+<http://localhost:8080/source/Route-691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-691> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "2" .
+<http://localhost:8080/source/Route-691> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Bassano Trentino Trasporti Spa" .
+
+<http://localhost:8080/source/Route-693> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "R26" .
+<http://localhost:8080/source/Route-693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-693> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Borgo Trentino Trasporti Spa" .
+<http://localhost:8080/source/Route-693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-693> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "2" .
+
+<http://localhost:8080/source/Route-695> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Servizi Trenitalia - Andata Tn-Bassano" .
+<http://localhost:8080/source/Route-695> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "R25" .
+<http://localhost:8080/source/Route-695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-695> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "2" .
+<http://localhost:8080/source/Route-695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Route-696> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "2" .
+<http://localhost:8080/source/Route-696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-696> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "R26" .
+<http://localhost:8080/source/Route-696> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Servizi Trenitalia - AndataTn-Borgo" .
+
+<http://localhost:8080/source/Route-703> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B621" .
+<http://localhost:8080/source/Route-703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-703> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+<http://localhost:8080/source/Route-703> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Lavis-Zambana-Nave S.Rocco-Mezzolombardo" .
+
+<http://localhost:8080/source/Route-713> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B601" .
+<http://localhost:8080/source/Route-713> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Trento-Dermulo-Cles-Malè" .
+<http://localhost:8080/source/Route-713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-713> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
+<http://localhost:8080/source/Route-717> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_long_name> "Servizio sostitutivo treno-Andata" .
+<http://localhost:8080/source/Route-717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Route-717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#BusRoutes> .
+<http://localhost:8080/source/Route-717> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_short_name> "B450" .
+<http://localhost:8080/source/Route-717> <http://www.semanticweb.org/kasper/ontologies/2022/10/StaticOntology#route_type> "3" .
+
